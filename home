@@ -1,4 +1,10 @@
-Aqui será a home
+---
+layout: page
+title: Home
+permalink: /home/
+---
+
+Aqui será a home!!!
 
 ### More Information
 
