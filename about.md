@@ -2,14 +2,11 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+![]({{site.baseurl}}//Capturar.PNG)
 
-### More Information
+### Women Techmakers
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+O Women Techmakers é um programa da Google para incentivar as mulheres na área de tecnologia.
