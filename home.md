@@ -1,7 +1,5 @@
 ---
-layout: page
-title: Home
-permalink: /home/
+layout: default
 ---
 
 Aqui será a home!!!
